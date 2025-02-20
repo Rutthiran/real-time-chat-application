@@ -6,15 +6,17 @@ A simple React-based chat application that allows users to send messages as eith
 
 **Company**: CODETECH IT SOLUTIONS  
 
-**Name**  : SHYAM KUMAR V 
+**Name**  :   RUTTHIRAN E 
 
-**Id**: CT08EOR 
+**Id**: CT08RVU
 
 **Domain**: FRONTEND WEB DEVELOPMENT   
 
-**Batch Duration**: Dec 17th 2024 to Jan 17th, 2025 
+**Batch Duration**: FEB 20th 2024 to MARCH 20th, 2025 
 
 **Mentor Name**: NEELA SANTHOSH
+--- 
+
 --- 
 
 
